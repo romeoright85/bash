@@ -1,0 +1,1 @@
+#define VERSION_TITLE "Good My Bear"
